@@ -5,6 +5,8 @@ This repository is a structured archive of my projects and assignments completed
 ## Directory Structure
 
 - `Algorithms_for_Data_Science`: Theory and Jupyter Notebooks of the most important algorithms used in Data Science.
+- `Semantic_Web_&_Ontologies`: Theory and exercises related to the **Semantic Web** and **Ontologies**, providing a solid understanding of foundational concepts and reasoning tasks.
+- `Signal_Processing`: Jupyter Notebooks with solved exercises and clearly explained theory, covering fundamental concepts and techniques in **Signal Processing**.
 
 ## Usage
 
