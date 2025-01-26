@@ -10,6 +10,13 @@ This repository is a structured archive of my projects and assignments completed
 - `Optimization`: Materials and solved exercises covering optimization techniques, algorithms, and applications in data science.
 - `Web_of_Data`: Projects and theory related to Linked Data and Web of Data, focusing on integration, querying, and semantic representation of information on the web.
 - `Social_Graph_&_Data_Management`: Analysis of social networks, graph theory, and community detection. Includes exercises on modularity, spreading phenomena, probabilistic graphs, and influence algorithms.
+- `Communication`: Materials related to the theory and practice of communication within the context of data science, including techniques for presenting data insights.
+- `Constraints_&_Data_Mining`: Theory and exercises on constraint satisfaction problems and their applications in data mining.
+- `Interactive_Information_Visualization`: Projects focused on creating interactive visualizations to represent data and insights effectively.
+- `Knowledge_Discovery_Graph_Data`: Exercises and theory related to knowledge discovery using graph-based data structures and algorithms.
+
+
+
 
 ## Usage
 
